@@ -1,4 +1,4 @@
 test-gif
 ========
 
-test-gif
+https://github.com/Flipboard/FLAnimatedImage
